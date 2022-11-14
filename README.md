@@ -37,6 +37,6 @@ If you like me/what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <a href="https://twitter.com/mkjrp">
   <img align="left" alt="Mika Jarapa | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="www.linkedin.com/in/mikajarapa">
+<a href="https://linkedin.com/in/mikajarapa">
   <img align="left" alt="Mika's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
