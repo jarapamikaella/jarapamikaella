@@ -1,10 +1,7 @@
 ### Hi there 👋
 
 
-I am **Mika-Ella Jarapa** a software developer based in the Bicol, Philippines.
-
-<!-- ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu) -->
-
+I am **Mika-Ella Jarapa** a **Software Developer** based in the Bicol, Philippines.
 <br />
 
 A passionate software developer and an aspiring software engineer. My desire and passion for software development anchored from seeing cool stuff the tech can do and how beautiful ideas can turn into real life use. I wanted to explore more about this journey and contribute to this industry.
