@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 
-I am **Mika-Ella Jarapa** a **Software Developer** based in the Bicol, Philippines.
+I am **Mika-Ella Jarapa** a **Software Engineer** based in the Manila, Philippines.
 <br />
 
-A passionate software developer and an aspiring software engineer. My desire and passion for software development anchored from seeing cool stuff the tech can do and how beautiful ideas can turn into real life use. I wanted to explore more about this journey and contribute to this industry.
+A passionate Software engineer. My desire and passion for software development are anchored by seeing the cool stuff the tech can do and how beautiful ideas can turn into real-life use. I wanted to explore more about this journey and contribute to this industry.
 
-I am also a fan of open-source and wanting to contribute to one someday. When I'm idle I am mostly doing hobbies such as online games, exploring cafe's and scrolling haha
+I am also a fan of open-source and want to contribute to one someday. When I'm idle I mostly doing hobbies such as online games, exploring cafe and scrolling haha
   
 - 💼 any freelance work? do reach me through my [email](mailto:mikaellajarapa@gmail.com) :)
 - 💬 ask me about anything;
